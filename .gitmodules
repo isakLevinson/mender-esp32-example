@@ -4,3 +4,9 @@
 [submodule "components/msgpack-c/msgpack-c"]
 	path = components/msgpack-c/msgpack-c
 	url = https://github.com/msgpack/msgpack-c.git
+[submodule "components/dbgterm"]
+	path = components/dbgterm
+	url = ../../eeg-sense/dbgterm.git
+[submodule "components/services"]
+	path = components/services
+	url = ../../eeg-sense/services.git
